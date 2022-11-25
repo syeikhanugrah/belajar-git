@@ -1,0 +1,4 @@
+1. git add : Menambah file ke stage area
+2. git commit : Menulis history dari file yang ada di stage area
+3. git push [nama remote] [nama branch] : Mengirim perubahan yang ada di lokal ke remote
+4. git pull [nama remote] [nama branch] : Mengambil perubahan yang ada di remote ke lokal
